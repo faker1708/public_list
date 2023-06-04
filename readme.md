@@ -22,6 +22,9 @@ math algorithm{
     game_back_end{
         dva_go
         counter_strike
+        foot_ball
+        num_battle  
+        
 
     }
 
